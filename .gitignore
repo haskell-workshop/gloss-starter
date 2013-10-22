@@ -20,3 +20,4 @@ hsenv.log
 \#*#
 .#*
 .cabal-sandbox
+cabal.sandbox.config
