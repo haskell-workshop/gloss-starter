@@ -13,7 +13,13 @@ You will need the latest GHC
 
 # Installation
 
-`$ cabal install gloss-starter.cabal`
+`$ cabal install`
+`$ cabal build`
+`$ dist/built/gloss-starter/gloss-starter`
+
+#Troubleshooting
+If any of these steps break, take a look at [issue #1](https://github.com/haskell-workshop/gloss-starter/issues/1)
+
 
 ===
 
