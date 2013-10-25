@@ -15,8 +15,7 @@ You will need the latest GHC
 
 ```sh
 $ cabal install
-$ cabal build
-$ dist/built/gloss-starter/gloss-starter
+$ dist/build/gloss-starter/gloss-starter
 ```
 
 #Troubleshooting
