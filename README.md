@@ -7,7 +7,7 @@ This is a starter kit for working with Gloss package.
 
 You will need the latest GHC
 
-`$ git clone git@github.com:haskell-workshop/gloss-starter.git`
+`$ git clone https://github.com/haskell-workshop/gloss-starter.git`
 
 `$ cd gloss-starter`
 
